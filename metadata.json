@@ -1,0 +1,7 @@
+{
+  "name": "OmniChat Dashboard",
+  "description": "A high-performance interactive dashboard to manage and interact with multiple Gemini AI models simultaneously on a single screen. Compare responses, switch models, and streamline your AI workflows.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
